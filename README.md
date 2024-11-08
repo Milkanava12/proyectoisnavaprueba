@@ -1,12 +1,12 @@
-# proyectoisnavaprueba
+# NavaSAVenta
 proyecto prueba ingenieria de software  nava
 
 Elaboro: Lic.Milka Nava Salazar 
 
 Fases de desarrollo de software
 
--Planeacion
--Analisis
--Diseño 
--Desarrollo
+nombre del producto:
+precio: 
+cantidad:
+calcule la venta:
 
